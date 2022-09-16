@@ -10,6 +10,11 @@ import styles from './home.module.scss';
 // SERVER SIDE
 // STATIC SIDE GENERATION
 
+// Post do Blog
+
+// Conteudo (SSG)
+// COMENTÁRIOS (CLIENT-SIDE)
+
 interface HomeProps {
   product: {
     priceId: string;
