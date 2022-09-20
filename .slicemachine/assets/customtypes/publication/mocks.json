@@ -1,0 +1,30 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Substance",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Eu proident sit proident eu cillum. Excepteur Lorem ad aliquip consectetur culpa in ipsum eiusmod qui nulla tempor pariatur do. Deserunt mollit magna sint amet pariatur.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}
