@@ -32,7 +32,7 @@ export async function saveSubscription(
   if (isACreationEvent) {
     await fauna.query(
       q.Create(
-        q.Collection('subscriptions'),
+        q.Collection('subscription'),
         { data: subscriptionData }
       )
     )
